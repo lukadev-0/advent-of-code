@@ -1,7 +1,7 @@
 use regex::Regex;
 
 fn main() {
-    let input = include_str!("./part1_input.txt");
+    let input = include_str!("./input.txt");
     println!("{}", part_2(input));
 }
 
